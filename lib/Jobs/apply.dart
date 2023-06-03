@@ -137,7 +137,7 @@ class _ApplicationFormScreenState extends State<ApplicationFormScreen> {
       final url = params.toString();
 
       // Open the user's email client to send the application email
-      await launch(url);
+      await launchUrl(url as Uri);
 
       // Perform any additional application submission logic here
 
