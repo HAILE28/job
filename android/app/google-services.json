@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822508593411",
+    "project_id": "jerry-ec9a1",
+    "storage_bucket": "jerry-ec9a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822508593411:android:f513684cd39829853ac936",
+        "android_client_info": {
+          "package_name": "daye.ijob_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822508593411-9n1oi4686s7nb7r6357kqa4397amvope.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLn_R07d2ljAN2Z7oaNdSWL6afGJLoHxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822508593411-9n1oi4686s7nb7r6357kqa4397amvope.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
